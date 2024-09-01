@@ -26,7 +26,7 @@ transform = transforms.Compose([
     transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
 ])
 # Title of the app
-st.title("🎈 My new app")
+st.title("🎈 Cloud app")
 # Description
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
